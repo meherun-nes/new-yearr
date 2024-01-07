@@ -1,0 +1,31 @@
+header {
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    border-radius: 16px;
+margin: 0 auto;
+}
+
+.banner {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 177px 0;
+}
+
+.banner2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    margin-bottom: 300px;
+    padding: 0 288px 344px 344px;
+    display: block;
+}
