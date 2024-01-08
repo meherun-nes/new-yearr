@@ -2,30 +2,99 @@ header {
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
-    background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    background-color: #070211, #07021100;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(#070211, #07021100), url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
     border-radius: 16px;
-margin: 0 auto;
+    margin: 0 auto;
+
+
 }
 
+nav {}
+
 .banner {
+
     color: #FFF;
     text-align: center;
-    font-family: Merriweather;
+    font-family: 'Merriweather Sans', sans-serif;
+
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding: 177px 0;
+    padding: 135px;
+
 }
 
 .banner2 {
+    line-height: 95px;
     color: #FFF;
-    text-align: center;
-    font-family: Merriweather;
-    font-size: 72px;
-    font-style: normal;
+
+    font-family: 'Merriweather Sans', sans-serif;
+
     font-weight: 900;
-    margin-bottom: 300px;
-    padding: 0 288px 344px 344px;
-    display: block;
+    font-size: 72px;
+
+
+    width: 632px;
+    text-align: center;
+    transform: translate(50%, -50%);
+
+}
+
+.text {
+    color: #FF0000;
+    padding-top: 200px;
+    padding-right: 468px;
+    padding-left: 469px;
+    font-size: 86px;
+    font-weight: 700;
+    
+    top: 770px;
+    font-family: 'Inter', sans-serif;
+    width: 383px;
+    height: 107px;
+
+}
+
+.holiday {
+    Top:
+    925px;
+    Left:
+    602px;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FF0000;
+}
+.cat{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+color: #070211;
+Size:
+48px;
+Line-height:
+58.09px;
+text-align:
+Center;
+font-weight:700;
+
+font-size: 48px;
+padding-top: 10px;
+}
+.vector{
+    Height:
+500px;
+Top:
+1076px;
+Left:
+399px;
+padding-right: 399px;
+padding-left: 398.1px;
+padding-top: 100px;
 }
