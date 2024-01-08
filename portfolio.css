@@ -4,7 +4,7 @@ header {
     flex-shrink: 0;
     background-color: #070211, #07021100;
     font-family: 'Merriweather Sans', sans-serif;
-    font-family: 'Open Sans', sans-serif;
+    
     background-image: linear-gradient(#070211, #07021100), url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
     border-radius: 16px;
     margin: 0 auto;
@@ -48,10 +48,10 @@ nav {}
     color: #FF0000;
     padding-top: 200px;
     padding-right: 468px;
-    padding-left: 469px;
+    padding-left: 46%;
     font-size: 86px;
     font-weight: 700;
-    
+    text-align: center;
     top: 770px;
     font-family: 'Inter', sans-serif;
     width: 383px;
@@ -61,9 +61,9 @@ nav {}
 
 .holiday {
     Top:
-    925px;
+        925px;
     Left:
-    602px;
+        602px;
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
@@ -72,29 +72,146 @@ nav {}
     text-align: center;
     color: #FF0000;
 }
-.cat{
+
+.cat {
     font-family: 'Inter', sans-serif;
     font-weight: bold;
-color: #070211;
-Size:
-48px;
-Line-height:
-58.09px;
-text-align:
-Center;
-font-weight:700;
+    color: #070211;
+    Size:
+        48px;
+    Line-height:
+        58.09px;
+    text-align:
+        Center;
+    font-weight: 700;
 
-font-size: 48px;
-padding-top: 10px;
+    font-size: 48px;
+    padding-top: 10px;
 }
-.vector{
-    Height:
-500px;
-Top:
-1076px;
-Left:
-399px;
-padding-right: 399px;
-padding-left: 398.1px;
-padding-top: 100px;
+
+.vector {
+    width: 802.9px;
+height: 500px;
+top: 1076px;
+left: 399px;
+
+    margin: 5px auto;
+}
+
+main {
+    background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+height: 600px;
+top: 1696px;
+left: 140px;
+margin: 0 auto;
+    
+
+    
+}
+.grp70{
+    width: 319.83px;
+height: 464.66px;
+margin-left: 70%;
+width: 319.83px;
+height: 464.66px;
+top: 1764.11px;
+left: 1002.17px;
+padding: 0.01px, 0px, 0px, 0px;
+margin-top: -20%;
+
+}
+h1 {
+    color: white;
+    width: 642px;
+    height: 176px;
+    top: 1822px;
+    left: 266px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 0.11em;
+    text-align: left;
+padding-left: 126px;
+padding-right: 552px;}
+
+
+.wish {
+    width: 697px;
+height: 60px;
+top: 2022px;
+left: 266px;
+font-size: 18px;
+font-family: 'Inter', sans-serif;
+line-height: 30px;
+color: #FFF;
+text-align: left;
+padding-left: 126px;
+padding-right: 497px;
+}
+.join{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    width: 103px;
+height: 24px;
+top: 2130px;
+left: 298px;
+color: #FFF;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+padding-top: 48px;
+padding-left: 158px;
+padding-right: 1059px;
+
+}
+section{
+    padding: 100px 214px 385px;
+    background-color: #FF0000, #FF000000;
+    margin-top: 130px;
+}
+ul , li{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: center;
+color: #070211;
+list-style: none;
+}
+span{
+    color: #FF0000;
+}
+.resource{
+  
+    width: 1320px;
+    
+height: 482px;
+top: 2416px;
+left: 140px;
+border-radius: 10px;
+    background-image: linear-gradient(rgb(235, 169, 169), rgba(255, 0, 0, 0));
+    padding: 100px;
+    margin: 0 auto;
+}
+.button{
+  border: 0;  
+
+  Top:
+  2732px;
+  Left:602px;
+  
+  border-radius:
+  8px;
+  Padding:
+  16px, 32px, 16px, 32px;
+  
+  Gap:
+  10px;
+  background-color: #FF0000; 
+
 }
