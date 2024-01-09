@@ -229,7 +229,7 @@ span {
 .sale {
     margin: 0 auto;
     width: 1600px;
-    height: 7335px;
+    height: 1300px;
     top: -3349px;
     left: 1168px;
 
@@ -244,10 +244,7 @@ span {
 }
 
 .sal {
-    width: 677px;
-    height: 91px;
-    top: 3646px;
-    left: 461px;
+   
     font-family: 'Merriweather';
     font-size: 72px;
     font-weight: 900;
@@ -277,6 +274,8 @@ span {
 
 .container {
     position: relative;
+    width: 1600px;
+    height: 7335px;
    
 }
 
@@ -292,7 +291,7 @@ left: 7%;
 }
 .golumolu{
     position: absolute;
-    display: flex;
+   
     padding-left: 780px;
     padding-right: 285px;
     
@@ -301,15 +300,58 @@ left: 7%;
 }
 .rect{ 
     position: absolute;
-top: 20px;
-
-width: 429px;
-height: 433px;
+    top: 20px;
+   
 
 left: 990px;
-border-radius: 16px, 16px, 0px, 0px;
+/*border-radius: 16px, 16px, 0px, 0px;*/
 
 
 }
+/* rlpage esign */
+.gg{
+    margin-left: 1500px;
+    position: relative;
+   
+}
+.bestgift{
+    width: 192px;
+height: 29px;
+top: 4707.07px;
 
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+text-align: center;
 
+color: #FF0000;
+
+}
+.Awesome{
+    width: 566px;
+height: 60px;
+top: 4752.07px;
+left: 140px;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+color: #070211;
+
+}
+.greetingcard{ 
+    width: 896px;
+height: 64px;
+top: 4834.07px;
+left: 140px;
+font-family: 'Inter';
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
