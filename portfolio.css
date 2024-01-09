@@ -4,7 +4,7 @@ header {
     flex-shrink: 0;
     background-color: #070211, #07021100;
     font-family: 'Merriweather Sans', sans-serif;
-    
+
     background-image: linear-gradient(#070211, #07021100), url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
     border-radius: 16px;
     margin: 0 auto;
@@ -91,9 +91,9 @@ nav {}
 
 .vector {
     width: 802.9px;
-height: 500px;
-top: 1076px;
-left: 399px;
+    height: 500px;
+    top: 1076px;
+    left: 399px;
 
     margin: 5px auto;
 }
@@ -102,26 +102,28 @@ main {
     background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
     background-repeat: no-repeat;
     width: 1320px;
-height: 600px;
-top: 1696px;
-left: 140px;
-margin: 0 auto;
-    
+    height: 600px;
+    top: 1696px;
+    left: 140px;
+    margin: 0 auto;
 
-    
+
+
 }
-.grp70{
+
+.grp70 {
     width: 319.83px;
-height: 464.66px;
-margin-left: 70%;
-width: 319.83px;
-height: 464.66px;
-top: 1764.11px;
-left: 1002.17px;
-padding: 0.01px, 0px, 0px, 0px;
-margin-top: -20%;
+    height: 464.66px;
+    margin-left: 70%;
+    width: 319.83px;
+    height: 464.66px;
+    top: 1764.11px;
+    left: 1002.17px;
+    padding: 0.01px, 0px, 0px, 0px;
+    margin-top: -20%;
 
 }
+
 h1 {
     color: white;
     width: 642px;
@@ -134,84 +136,180 @@ h1 {
     line-height: 88px;
     letter-spacing: 0.11em;
     text-align: left;
-padding-left: 126px;
-padding-right: 552px;}
+    padding-left: 126px;
+    padding-right: 552px;
+}
 
 
 .wish {
     width: 697px;
-height: 60px;
-top: 2022px;
-left: 266px;
-font-size: 18px;
-font-family: 'Inter', sans-serif;
-line-height: 30px;
-color: #FFF;
-text-align: left;
-padding-left: 126px;
-padding-right: 497px;
+    height: 60px;
+    top: 2022px;
+    left: 266px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    line-height: 30px;
+    color: #FFF;
+    text-align: left;
+    padding-left: 126px;
+    padding-right: 497px;
 }
-.join{
+
+.join {
     font-family: 'Inter', sans-serif;
     font-size: 20px;
     width: 103px;
-height: 24px;
-top: 2130px;
-left: 298px;
-color: #FFF;
-font-weight: 700;
-line-height: 24px;
-letter-spacing: 0em;
-text-align: center;
-padding-top: 48px;
-padding-left: 158px;
-padding-right: 1059px;
+    height: 24px;
+    top: 2130px;
+    left: 298px;
+    color: #FFF;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 48px;
+    padding-left: 158px;
+    padding-right: 1059px;
 
 }
-section{
+
+section {
     padding: 100px 214px 385px;
     background-color: #FF0000, #FF000000;
     margin-top: 130px;
 }
-ul , li{
+
+ul,
+li {
     font-family: Inter;
-font-size: 32px;
-font-weight: 600;
-line-height: 56px;
-letter-spacing: 0em;
-text-align: center;
-color: #070211;
-list-style: none;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #070211;
+    list-style: none;
 }
-span{
+
+span {
     color: #FF0000;
 }
-.resource{
-  
+
+.resource {
+
     width: 1320px;
-    
-height: 482px;
-top: 2416px;
-left: 140px;
-border-radius: 10px;
+
+    height: 482px;
+    top: 2416px;
+    left: 140px;
+    border-radius: 10px;
     background-image: linear-gradient(rgb(235, 169, 169), rgba(255, 0, 0, 0));
     padding: 100px;
     margin: 0 auto;
 }
-.button{
-  border: 0;  
 
-  Top:
-  2732px;
-  Left:602px;
-  
-  border-radius:
-  8px;
-  Padding:
-  16px, 32px, 16px, 32px;
-  
-  Gap:
-  10px;
-  background-color: #FF0000; 
+.button {
+    border: 0;
+
+    Top:
+        2732px;
+    Left: 602px;
+
+    border-radius:
+        8px;
+    Padding:
+        16px, 32px, 16px, 32px;
+
+    Gap:
+        10px;
+    background-color: #FF0000;
 
 }
+
+.sale {
+    margin: 0 auto;
+    width: 1600px;
+    height: 7335px;
+    top: -3349px;
+    left: 1168px;
+
+}
+
+.function {
+    font-family: 'Inter';
+    font-size: 24px;
+
+    text-align: center;
+
+}
+
+.sal {
+    width: 677px;
+    height: 91px;
+    top: 3646px;
+    left: 461px;
+    font-family: 'Merriweather';
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    font-family: 'Inter';
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.ring {
+    line-height: 32px;
+    text-align: center;
+}
+
+.ract {
+    width: 429px;
+    height: 533px;
+
+    border-radius: 16px, 16px, 0px, 0px
+}
+
+.container {
+    position: relative;
+   
+}
+
+.re{
+    position: absolute;
+top: 450px;
+left: 100px;
+}
+.gbox{
+    position: absolute;
+    top: 5px;
+left: 7%;
+}
+.golumolu{
+    position: absolute;
+    display: flex;
+    padding-left: 780px;
+    padding-right: 285px;
+    
+    
+    
+}
+.rect{ 
+    position: absolute;
+top: 20px;
+
+width: 429px;
+height: 433px;
+
+left: 990px;
+border-radius: 16px, 16px, 0px, 0px;
+
+
+}
+
+
